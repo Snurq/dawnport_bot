@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Waypoints>
+	<Waypoint>
+		<marker>images/markers/001.png</marker><direction>SOUTH</direction><checkpoint>images/tortoise/001.png</checkpoint>
+	</Waypoint>
+	<Waypoint>
+		<marker>images/markers/002.png</marker><direction>SOUTH</direction><checkpoint>images/tortoise/002.png</checkpoint>
+	</Waypoint>
+	<Waypoint>
+		<marker>images/markers/003.png</marker><direction>SOUTH</direction><checkpoint>images/tortoise/003.png</checkpoint>
+	</Waypoint>
+	<Waypoint>
+		<marker>images/markers/004.png</marker><direction>SOUTH</direction><checkpoint>images/tortoise/004.png</checkpoint>
+	</Waypoint>
+	<Waypoint>
+		<marker>images/markers/005.png</marker><direction>SOUTH</direction><checkpoint>images/tortoise/005.png</checkpoint>
+	</Waypoint>
+	<Waypoint>
+		<marker>images/markers/006.png</marker><direction>SOUTH</direction><checkpoint>images/tortoise/006.png</checkpoint>
+	</Waypoint>
+	<Waypoint>
+		<marker>images/markers/007.png</marker><direction>SOUTH</direction><checkpoint>images/tortoise/007.png</checkpoint>
+	</Waypoint>
+	<Waypoint>
+		<marker>images/markers/008.png</marker><direction>SOUTH</direction><checkpoint>images/tortoise/008.png</checkpoint>
+	</Waypoint>
+	<Waypoint>
+		<marker>images/markers/009.png</marker><direction>SOUTH</direction><checkpoint>images/tortoise/009.png</checkpoint>
+	</Waypoint>
+	<Waypoint>
+		<marker>images/markers/010.png</marker><direction>SOUTH</direction><checkpoint>images/tortoise/010.png</checkpoint>
+	</Waypoint>
+	<Waypoint>
+		<marker>images/markers/011.png</marker><direction>SOUTH</direction><checkpoint>images/tortoise/011.png</checkpoint>
+	</Waypoint>
+</Waypoints>
